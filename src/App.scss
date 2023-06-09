@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700;800;900&display=swap");
+* {
+  font-family: "Rubik", sans-serif;
+}
+.card {
+  margin: 50px auto;
+  width: 325px;
+  .container {
+    padding: 20px;
+    width: 100%;
+    background-color: hsl(215, 32%, 27%);
+    overflow: hidden;
+    border-radius: 20px;
+  }
+  .cryptologo {
+    border-radius: 20px;
+    width: 100%;
+  }
+  .cryptologo {
+    border-radius: 20px;
+    width: 100%;
+  }
+  hr {
+    border-color: hsla(222, 39%, 87%, 0.282);
+  }
+}

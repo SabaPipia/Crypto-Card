@@ -1,0 +1,30 @@
+.value {
+  display: flex;
+  justify-content: space-between;
+  .price,
+  .time {
+    display: flex;
+    gap: 7px;
+    font-size: 24px;
+    img {
+      align-self: center;
+      width: 16px;
+    }
+  }
+  h6 {
+    margin: 16px auto;
+  }
+  .time {
+    img {
+      width: 20px;
+    }
+    h6 {
+      color: hsla(222, 39%, 87%, 0.658);
+      font-weight: 300;
+    }
+  }
+  .price h6 {
+    color: #00ddff;
+    font-weight: 500;
+  }
+}

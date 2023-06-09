@@ -1,0 +1,16 @@
+.cryptoInfo {
+  h1 {
+    cursor: pointer;
+    color: #fff;
+    font-size: 23px;
+  }
+  p {
+    color: hsla(222, 39%, 87%, 0.658);
+    font-weight: 300;
+    margin-bottom: 0;
+  }
+  h1:hover,
+  h1:active {
+    color: #00ddff;
+  }
+}
